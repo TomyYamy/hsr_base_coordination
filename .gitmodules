@@ -1,0 +1,3 @@
+[submodule "hsrb_description"]
+	path = hsrb_description
+	url = https://github.com/TomyYamy/hsrb_description.git
