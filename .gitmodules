@@ -1,3 +1,6 @@
 [submodule "hsrb_description"]
 	path = hsrb_description
 	url = https://github.com/TomyYamy/hsrb_description.git
+[submodule "gazebo_ros_pkgs"]
+	path = gazebo_ros_pkgs
+	url = https://github.com/TomyYamy/gazebo_ros_pkgs.git
